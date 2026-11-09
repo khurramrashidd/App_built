@@ -12,6 +12,7 @@ This repository contains the latest **Android APK builds** of my projects.
 - SDG17
 - Android App Development Tasks
 
+These Apps are in Building phase.
 ## 🔄 Updates
 
 APK files are automatically collected from the respective projects and replaced whenever a newer build is available.
